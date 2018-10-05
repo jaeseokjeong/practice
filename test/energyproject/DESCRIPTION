@@ -1,0 +1,10 @@
+Package: energyproject
+Title: anomaly detection of power consumtion
+Version: 0.0.0.9000
+Authors@R: person("Jaeseok", "jeong", email = "jaeseokjeong92@gmail.com", role = c("aut", "cre"))
+Description: This package judges whether or not the power consumption per hour is abnomaly.
+Depends: R (>= 3.3.2)
+License: SKKU
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
